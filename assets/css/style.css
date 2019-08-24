@@ -105,8 +105,9 @@ footer
     color: #ffffff;
 }
 
-h1
+#logo
 {
+    width: 250px;
     background-color: #4aaaa5;
     color: #ffffff;
 
